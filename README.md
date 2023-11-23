@@ -2,19 +2,6 @@
 
 I'm Ben, and I'm a sophomore at Brown University studying computer science. I am originally from Vancouver, Canada, and in my spare time, I blunder pieces on [Chess.com](https://www.chess.com/member/ben-kang), (try to) hunt KOMs on [Strava](https://www.strava.com/athletes/87693504), and do a bit of [photography work](https://www.bj-photography.com/) on the side!
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-alpha-orpin.vercel.app/api?username=b3nkang&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-alpha-orpin.vercel.app/api?username=b3nkang&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="github-readme-stats-alpha-orpin.vercel.app/api?username=b3nkang&show_icons=true" />
-</picture>
-
 <table style="width:100%">
   <tr>
     <th><img src="https://github-readme-stats-alpha-orpin.vercel.app/api?username=b3nkang&show_icons=true&hide_border=true&theme=dark" /></th>
