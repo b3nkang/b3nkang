@@ -1,6 +1,6 @@
 ### **Hi!**
 
-I'm Ben, and I'm a junior at Brown University studying computer science. More about me at [benkang.me](https://benkang.me/)!
+I'm Ben, and I'm a junior at Brown University studying computer science.
 
 <table style="width:100%">
   <tr>
